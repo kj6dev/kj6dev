@@ -1,45 +1,37 @@
-I am focused on being a product-focused iOS developer these days. My academic background is Creative Technologies & Design and Aerospace Engineering while I have professional experience as an engineer, teacher, communicator, and more. Below are some of my largest, most recent, and favorite projects.
+# Hi, I'm Adrien
 
-## iOS Apps
-- [No Place to Go](https://github.com/TravelByRocket/no-place-to-go) -- My first paid app gig was for a socially distanced haunted house
-- [So Much Coffee](https://github.com/TravelByRocket/so-much-coffee) -- I first learned Swift+SwiftUI while creating this app as the subject of M.S. thesis project so that I could finally find and enjoy coffee shops the way I wanted
-- [Point One K](https://github.com/TravelByRocket/point-one-k) -- I created this app while studying the Ultimate Portfolio App course from [Paul (IMO, "The King") Hudson](https://github.com/twostraws)
-- [Torn Assistant](https://github.com/TravelByRocket/torn-asst) -- An app to track and manage copious notifications related to the online crime game [Torn](https://www.torn.com/2544362)
-- Wild Camp -- Find the right USFS map at the right time for dispersed camping
-- Awesome Timer -- Keep track of all the times you did something awesome
-- Gravelmap -- Creating an iOS native version of [gravelmap.com](http://gravelmap.com)
+AI tooling engineer and indie iOS developer in Boulder, CO. I build systems that make software development faster and more autonomous.
 
+## AI Tooling & Automation
 
-## Interactive Art Installations
-- [Permutate](https://github.com/TravelByRocket/permutate) -- LED-illuminated touch-reactive inflatable sculpture that was first displayed in public at Canal Convergence 2019 in Scottsdale, Arizona
-- [Intervening Substance](https://github.com/TravelByRocket/intervening-substance) -- Two related installations of an inflatable sculpture that can be activated by performers' movements (with NFC) or guests' interactions (sound and touch)
-- [Earth Wear](https://github.com/TravelByRocket/earth-wear) -- A solar-powered, motion-sensing, and sound-emitting art installation that has been delivered to the artist but is waiting for its true day in the Sun
-- Gravity Well Museum Exhibit -- Less art, more science, but still an interactive visualization installed at Clark Planetarium in Salt Lake City, Utah utilizing C++ in openFrameworks.
+**[Fanta](https://github.com/synodic-studio/Fanta)** -- Multi-agent personal system built on Claude Code. A fleet of specialized AI agents handling software development, personal logistics, and life operations -- all orchestrated from a phone via Telegram. Python, launchd, Agent Mail. *(Currently private -- open source soon)*
 
-## Scientific Data Analysis
-- [Solmirus Corp.](http://solmirus.com/asiva) -- Infrared and visible image cloud analysis with Python, NumPy, and AstroPy
+**[synodic-kit](https://github.com/synodic-studio/synodic-kit)** -- Claude Code plugin providing git workflow enforcement, Apple platform development tooling, and cross-project conventions. Hooks, skills, agents, and commands. *(Currently private -- open source soon)*
 
-## Other Creative Coding
-- Exoplanet Transit Demonstration
-- Immersive Sound Color Room
-- Living Hinge Generator
-- Generative Algorithms Workshop
-- Starship Trainer
-- Immersive Science Visualizations
+**[Stargate](https://github.com/synodic-studio/stargate)** -- Telegram bridge to Claude Code with Sign in with Apple, crash recovery, and multi-project routing. Full software development from a phone. *(Currently private -- open source soon)*
 
-<!-- [Awesome Timer](https://github.com/TravelByRocket/awesome-timer) -- Keep track of all the times you did something awesome-->
-<!--[Gravelmap](https://github.com/TravelByRocket/gravelmap) -- Creating an iOS notive version of [gravelmap.com](http://gravelmap.com)-->
-<!--
-**TravelByRocket/TravelByRocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[inline-dialogue-plugin](https://github.com/synodic-studio/inline-dialogue-plugin)** -- Claude Code plugin for inline code review using AUTHOR/AGENT thread patterns.
 
-Here are some ideas to get you started:
+## Apps & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[swift-quality-tools](https://github.com/synodic-studio/swift-quality-tools)** -- Custom SwiftSyntax linting rules for SwiftUI code quality enforcement.
+
+**[synodic-tools](https://github.com/kj6dev/synodic-tools)** -- Zero-dependency Swift utility library for iOS 15+ and macOS 12+.
+
+**[whisper-tool](https://github.com/kj6dev/whisper-tool)** -- Local audio transcription CLI using faster-whisper.
+
+**[mochi-mcp](https://github.com/kj6dev/mochi-mcp)** -- MCP server for Mochi spaced repetition flashcards.
+
+## Interactive Art & Creative Code
+
+**[Permutate](https://github.com/kj6dev/permutate)** -- Interactive inflatable art installation with LED and Arduino.
+
+**[Earth Wear](https://github.com/kj6dev/earth-wear)** -- Sound-reactive wearable art with motion sensing.
+
+**[Sand Lines](https://github.com/kj6dev/sand-lines)** -- Generative art using Perlin noise flow fields.
+
+**[ShapeScript](https://github.com/kj6dev/ShapeScript)** -- 3D modeling with a text-based scripting language.
+
+---
+
+[synodic.co](https://synodic.co) -- [kj6.dev](https://kj6.dev)
