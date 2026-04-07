@@ -1,4 +1,4 @@
-# Hi, I'm Adrien
+# Hi, I'm Bryan (Adrien soon after paperwork goes through)
 
 AI tooling engineer and indie iOS developer in Boulder, CO. I build systems that make software development faster and more autonomous.
 
