@@ -4,11 +4,11 @@ AI tooling engineer and indie iOS developer in Boulder, CO. I build systems that
 
 ## AI Tooling & Automation
 
-**[Fanta](https://github.com/synodic-studio/Fanta)** -- Multi-agent personal system built on Claude Code. A fleet of specialized AI agents handling software development, personal logistics, and life operations -- all orchestrated from a phone via Telegram. Python, launchd, Agent Mail. *(Currently private -- open source soon)*
+**Fanta** -- Multi-agent personal system built on Claude Code. A fleet of specialized AI agents handling software development, personal logistics, and life operations -- all orchestrated from a phone via Telegram. Python, launchd, Agent Mail. *(Open source soon)*
 
-**[synodic-kit](https://github.com/synodic-studio/synodic-kit)** -- Claude Code plugin providing git workflow enforcement, Apple platform development tooling, and cross-project conventions. Hooks, skills, agents, and commands. *(Currently private -- open source soon)*
+**[synodic-kit](https://github.com/synodic-studio/synodic-kit)** -- Claude Code plugin providing git workflow enforcement, Apple platform development tooling, and cross-project conventions. Hooks, skills, agents, and commands.
 
-**[Stargate](https://github.com/synodic-studio/stargate)** -- Telegram bridge to Claude Code with Sign in with Apple, crash recovery, and multi-project routing. Full software development from a phone. *(Currently private -- open source soon)*
+**[Stargate](https://github.com/synodic-studio/stargate)** -- Telegram bridge to Claude Code with crash recovery and multi-project routing. Full software development from a phone.
 
 **[inline-dialogue-plugin](https://github.com/synodic-studio/inline-dialogue-plugin)** -- Claude Code plugin for inline code review using AUTHOR/AGENT thread patterns.
 
